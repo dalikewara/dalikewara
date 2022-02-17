@@ -1,2 +1,2 @@
-<a href="#"><img align="center" style="width:49%" align="center" src="https://github-readme-stats.vercel.app/api?username=dalikewara&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" /></a>
-<a href="#"><img align="center" style="width:36%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalikewara&langs_count=8&hide_title=true&layout=compact&theme=gruvbox&hide_border=true" /></a>
+<a href="#"><img align="center" style="width:50%" align="center" src="https://github-readme-stats.vercel.app/api?username=dalikewara&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" /></a>
+<a href="#"><img align="center" style="width:37%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalikewara&langs_count=8&hide_title=true&layout=compact&theme=gruvbox&hide_border=true" /></a>
