@@ -1,4 +1,8 @@
-### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=dalikewara&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dalikewara&layout=compact&langs_count=8&hide_border=true)
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **dalikewara/dalikewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
