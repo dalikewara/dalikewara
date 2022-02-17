@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=dalikewara&show_icons=true&hide_border=true)&nbsp;&nbsp;
+[![Stats](https://github-readme-stats.vercel.app/api?username=dalikewara)](https://github.com/anuraghazra/github-readme-stats)
 ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dalikewara&layout=compact&langs_count=8&hide_border=true)
 
 
